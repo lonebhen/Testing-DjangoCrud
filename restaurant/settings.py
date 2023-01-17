@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # my installed apps
     'menus.apps.MenusConfig',
     'DjangoCrud',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
